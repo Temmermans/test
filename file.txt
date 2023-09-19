@@ -1,7 +1,1 @@
-Ik ben een file
-
-
-Ik heb de file aangepast
-
-
-Nog een lijn
+this is a string
